@@ -1,0 +1,29 @@
+body {
+	background: #eeeeee;
+    font-family: 'Verdana', sans-serif;
+    margin: 1%;
+}
+
+.header p {
+	font-size: 50px;
+	text-align: center;
+	padding: 20px 0;
+}
+
+.container {
+	width: 90%;
+	max-width: 1000px;
+	margin: auto;
+}
+
+.container > div {
+    display: block;
+	padding: 20px;
+	background: #9fbbe0;
+    border:5px outset rgb(199, 42, 42);
+    border-radius: 15px;
+}
+
+img {
+    border-radius: 15px;
+}
